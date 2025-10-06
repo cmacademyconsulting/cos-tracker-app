@@ -6,7 +6,7 @@
 
 ## 🔗 Quick Access for Judges
 - 🎥 [Demo Video (30s)](https://drive.google.com/file/d/1QnZxkdDPN44WalAfko-x0CmpyL1w7rP2/view?usp=sharing)  
-- 📑 [Judge Brief (PDF)](https://drive.google.com/file/d/15MVs3jOQChKEIPsyR57QwFh_h4Wayvqi/view?usp=sharing)  
+- 📑 [Judge Brief (PDF)](https://drive.google.com/file/d/1fjLrZOa05GxZ7psnk_5VPu_X-6-dzZEj/view?usp=sharing)  
 - 📘 [Book Preview (PDF)](https://drive.google.com/file/d/1PUuM4ZTln6U8p_OkGJ5dZ2S_53MgaO6E/view?usp=sharing)  
 - 📊 [Slides (≤7)](https://drive.google.com/file/d/1ZjBGPELeZZrLYWZrdd9w1WTzA1so7Y_l/view?usp=sharing)  
 - 💻 [Code & Docs (GitHub)](https://github.com/cmacademyconsulting/cos-tracker-app)  
