@@ -29,10 +29,11 @@ By validating fire risk in real time and generating **audit‑ready JSON reports
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo & Docs
 - **Video Pitch (30s):** [Watch Demo](https://drive.google.com/file/d/1QnZxkdDPN44WalAfko-x0CmpyL1w7rP2/view?usp=sharing)  
 - **Slides (≤7, PDF):** [View Slides](./docs/slides.pdf)  
 - **Judge Brief (PDF):** [View Judge Brief](./docs/judge-brief.pdf)  
+- **Book Preview (PDF):** [Read Book Preview](./docs/book-preview.pdf)  
 
 ---
 
@@ -44,6 +45,21 @@ By validating fire risk in real time and generating **audit‑ready JSON reports
   - [Firebase](https://firebase.google.com/)  
   - [Node.js](https://nodejs.org/)  
   - [UN SDG Icons](https://sdgs.un.org/goals)  
+
+---
+
+## 📖 COS & SMART Methodology (Book Preview)
+COS Approval Tracker is built on the **COS methodology** and **SMART tools** developed by **Susil Bhandari, CCM**, and published in his book:
+
+**An Approach to Construction Management Challenges: Integrating Digital, ESG, and SMART Frameworks**
+
+📂 [Read Book Preview](./docs/book-preview.pdf)
+
+### Key Concepts from the Book:
+- **COS Dashboards** → compliance checkpoints and audit‑ready outputs  
+- **SMART Action Registers** → accountability with measurable triggers  
+- **Case Studies** → real‑world results from Nepal, Bahrain, and Qatar  
+- **Scalability** → frameworks adaptable to ESG, digital, and global governance  
 
 ---
 
