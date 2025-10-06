@@ -5,10 +5,11 @@
 ---
 
 ## 🔗 Quick Access for Judges
-- 🎥 [Demo Video (30s)](https://drive.google.com/file/d/19bQX1FsOzOK2J6KjdlNr0lwpfeRJyfzx/view?usp=sharing)  
-- 📑 [Judge Brief (PDF)](./docs/Judge_Brief.pdf)  
-- 📊 [Slides (≤7)](./docs/COS_Slides.pdf)  
-- 📘 [Book Preview (PDF)](./docs/COS_Book_Preview.pdf)  
+- 🎥 [Demo Video (30s)](https://drive.google.com/file/d/1QnZxkdDPN44WalAfko-x0CmpyL1w7rP2/view?usp=sharing)  
+- 📑 [Judge Brief (PDF)](https://drive.google.com/file/d/15MVs3jOQChKEIPsyR57QwFh_h4Wayvqi/view?usp=sharing)  
+- 📘 [Book Preview (PDF)](https://drive.google.com/file/d/1PUuM4ZTln6U8p_OkGJ5dZ2S_53MgaO6E/view?usp=sharing)  
+- 📊 [Slides (≤7)](https://drive.google.com/file/d/1ZjBGPELeZZrLYWZrdd9w1WTzA1so7Y_l/view?usp=sharing)  
+- 💻 [Code & Docs (GitHub)](https://github.com/cmacademyconsulting/cos-tracker-app)  
 - 🌍 [NASA FIRMS Data](https://firms.modaps.eosdis.nasa.gov)  
 
 ---
@@ -57,7 +58,7 @@ COS Approval Tracker is built on the **COS methodology** and **SMART tools** dev
 - Case Studies → real‑world results from Nepal, Bahrain, and Qatar  
 - Scalability → adaptable frameworks for ESG, digital, and global governance  
 
-📘 [Read Book Preview](./docs/COS_Book_Preview.pdf)  
+📘 [Read Book Preview](https://drive.google.com/file/d/1PUuM4ZTln6U8p_OkGJ5dZ2S_53MgaO6E/view?usp=sharing)  
 
 ---
 
