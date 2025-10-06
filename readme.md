@@ -85,4 +85,50 @@ Extends the COS methodology into a **universal compliance solution** that bridge
 **Factors Considered:**  
 - Audit‑readiness and transparency  
 - ESG integration and SDG alignment  
-- Scalability across sectors and
+- Scalability across sectors and geographies  
+- Ethical AI use (support only, no core logic)  
+- Professional codes of ethics and global compliance standards  
+
+---
+
+## 🤖 Ethical Statement & AI Use
+See full details in [ETHICS.md](./ethics/ETHICS.md).  
+
+Summary:  
+- AI tools were used only as **supportive accelerators**, never as originators.  
+- All outputs were **reviewed and validated** against the original COS methodology authored by **Susil Bhandari, CCM**.  
+- No AI‑generated code, NASA data manipulation, or branding elements were used.  
+- All final outputs are **ethical, audit‑ready, and fully compliant** with NASA Space Apps guidelines.  
+
+---
+
+## 👥 Team COS
+- **Susil Bhandari, CCM** — Technical & Compliance Lead  
+- **Akshata Adhikari** — Outreach Lead  
+
+Proudly representing **Nepal 🇳🇵** in NASA Space Apps Challenge 2025.  
+
+---
+
+## 📌 Roadmap
+See the full development roadmap here: [ROADMAP.md](./docs/ROADMAP.md)
+
+---
+
+## 📂 Case Studies
+Explore real‑world applications of COS methodology: [CASESTUDIES.md](./docs/CASESTUDIES.md)
+
+---
+
+## 👤 About the Author
+**Susil Bhandari, CCM** is a Certified Construction Manager, founder of **CM Academy**, and developer of the **COS (Compliance Operating System) methodology**. With over 20 years of international project leadership across Nepal, Bahrain, and Qatar, he specializes in compliance, governance, and ESG integration.  
+
+He is the author of *An Approach to Construction Management Challenges: Integrating Digital, ESG, and SMART Frameworks* and creator of the **COS Approval Tracker**, a digital tool recognized at **NASA Space Apps Challenge 2025**.  
+
+Through CM Academy, Susil delivers training, consulting, and scalable compliance solutions that are **audit‑ready, ethical, and globally adaptable**, serving both professional organizations and communities worldwide.  
+
+---
+
+## 📜 License
+This project is submitted under the terms of the **NASA Space Apps Challenge 2025**.  
+All external resources are credited, and all original work is owned by **Team COS**.  
