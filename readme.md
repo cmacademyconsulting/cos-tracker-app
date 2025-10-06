@@ -109,13 +109,6 @@ Proudly representing **Nepal 🇳🇵** in NASA Space Apps Challenge 2025.
 ## 📌 Roadmap
 See the full development roadmap here: [ROADMAP.md](./ROADMAP.md)
 
-
----
-
-## 📜 License
-This project is submitted under the terms of the **NASA Space Apps Challenge 2025**.  
-All external resources are credited, and all original work is owned by **Team COS**.  
-
 ---
 ## 👤 About the Author
 
@@ -124,3 +117,9 @@ All external resources are credited, and all original work is owned by **Team CO
 He is the author of *An Approach to Construction Management Challenges: Integrating Digital, ESG, and SMART Frameworks* and creator of the **COS Approval Tracker**, a digital tool recognized at **NASA Space Apps Challenge 2025**.  
 
 Through CM Academy, Susil delivers training, consulting, and scalable compliance solutions that are **audit‑ready, ethical, and globally adaptable**, serving both professional organizations and communities worldwide.
+
+---
+
+## 📜 License
+This project is submitted under the terms of the **NASA Space Apps Challenge 2025**.  
+All external resources are credited, and all original work is owned by **Team COS**.  
