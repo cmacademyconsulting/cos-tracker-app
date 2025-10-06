@@ -1,7 +1,8 @@
 # COS Approval Tracker
 
-**Built for NASA Space Apps Challenge 2025**  
-**Team COS | Nepal 🇳🇵 | SDG 11 & 13**
+**NASA Space Apps Challenge 2025 | Team COS | Nepal 🇳🇵**
+
+*Using NASA FIRMS data to cut donor approvals from 10+ days to 3 with audit‑ready reports, saving $2M per project.*
 
 ---
 
@@ -12,10 +13,10 @@ By validating fire risk in real time and generating **audit‑ready JSON reports
 ---
 
 ## ✨ Key Features
-- 🔥 **Real‑time fire risk validation** using NASA FIRMS data  
-- 📑 **Audit‑ready JSON reports** for banks, donors, and regulators  
-- ⚡ **60% faster approvals** compared to current workflows  
-- 💰 **$2M in delays prevented** per project cycle  
+- 🔥 Real‑time fire risk validation (NASA FIRMS)  
+- 📑 Audit‑ready JSON reports for banks, donors, and regulators  
+- ⚡ 60% faster approvals  
+- 💰 $2M+ in delays prevented per project cycle  
 - 🌱 Direct support for **SDG 11 (Sustainable Cities)** and **SDG 13 (Climate Action)**  
 
 ---
@@ -25,27 +26,30 @@ By validating fire risk in real time and generating **audit‑ready JSON reports
 - **Backend:** Node.js  
 - **Database & Auth:** Firebase  
 - **Data Source:** NASA FIRMS APIs  
-- **Visualization:** JSON outputs, mobile UI mockups  
 
 ---
 
 ## 🎥 Demo
-- **Video Pitch (30s):** [Insert Public Link Here]  
-- **Slides (≤7, PDF):** [Insert Public Link Here]  
-- **Judge Brief (PDF):** [Insert Public Link Here]  
+- **Video Pitch (30s):** [Watch Demo](https://drive.google.com/file/d/1QnZxkdDPN44WalAfko-x0CmpyL1w7rP2/view?usp=sharing)  
+- **Slides (≤7, PDF):** [View Slides](./docs/slides.pdf)  
+- **Judge Brief (PDF):** [View Judge Brief](./docs/judge-brief.pdf)  
 
 ---
 
 ## 📂 Project Links
-- **Code Repository:** https://github.com/cmacademyconsulting/cos-tracker-app  
-- **Demo Assets (Slides + Video):** [Insert Link Here]  
-- **Documentation (Book/Framework Reference):** *An Approach to Construction Management Challenges* by Susil Bhandari, CCM  
+- **Code & Docs:** https://github.com/cmacademyconsulting/cos-tracker-app  
+- **NASA Data:** [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)  
+- **Other Tools & Resources:**  
+  - [React Native](https://reactnative.dev/)  
+  - [Firebase](https://firebase.google.com/)  
+  - [Node.js](https://nodejs.org/)  
+  - [UN SDG Icons](https://sdgs.un.org/goals)  
 
 ---
 
 ## 📖 Project Details
 **What it does:**  
-Transforms raw NASA satellite data into transparent, bank‑ready compliance outputs.  
+Transforms NASA FIRMS satellite data into transparent, bank‑ready compliance outputs.  
 
 **Benefits:**  
 - Faster donor approvals  
@@ -57,31 +61,28 @@ Transforms raw NASA satellite data into transparent, bank‑ready compliance out
 Enable **faster, climate‑aware decision‑making** for infrastructure and urban development projects worldwide.  
 
 **Creativity:**  
-Built on the **COS methodology** (Compliance Operating System), originally developed for construction management and now scaled as a universal governance solution.  
+Built on the **COS methodology**, authored by **Susil Bhandari, CCM**, and documented in his book *An Approach to Construction Management Challenges*. Originally designed for construction management, COS has been scaled into a **universal compliance solution** that bridges space data, ESG, and governance.  
+
+**Factors Considered:**  
+- Audit‑readiness and transparency  
+- ESG integration and SDG alignment  
+- Scalability across sectors and geographies  
+- Ethical AI use (AI only for drafting/visualization, not core logic)  
+- Professional codes of ethics and global compliance standards  
 
 ---
 
 ## 🤖 Ethical Statement & AI Use
-COS Approval Tracker is built on the original **COS methodology**, developed by **Susil Bhandari, CCM**, and documented in his authored book *An Approach to Construction Management Challenges*.  
+AI tools were used only as supportive accelerators. Specifically:
+- Drafting and refining written content (project summary, README, Judge Brief)  
+- Assisting with slide layout and demo narration structure  
+- Providing step‑by‑step guidance for packaging the submission  
 
-AI tools were used **only as supportive accelerators** — for drafting summaries, refining slide layouts, and structuring demo narration. All AI‑assisted outputs were reviewed, validated, and aligned with the **core COS philosophy**.  
+All AI‑assisted outputs were reviewed and validated against the original **COS methodology** authored by **Susil Bhandari, CCM**.  
+The compliance workflows, governance logic, and technical implementation are original intellectual work derived from professional practice.  
 
-The **logic, compliance workflows, and governance tools** remain original intellectual work, derived from decades of professional practice and published frameworks.  
-We affirm that the **innovation, methodology, and system design are our own**, and that AI was used ethically, transparently, and in line with NASA’s guidelines.  
-
----
-
-## 🚀 NASA Data Used
-- **NASA FIRMS (Fire Information for Resource Management System)**  
-  https://firms.modaps.eosdis.nasa.gov/  
-
----
-
-## 🌐 Other Tools & Resources
-- React Native → https://reactnative.dev/  
-- Firebase → https://firebase.google.com/  
-- Node.js → https://nodejs.org/  
-- UN SDG Icons → https://sdgs.un.org/goals  
+No AI‑generated code, NASA data manipulation, or branding elements were used.  
+All final outputs are ethical, audit‑ready, and fully compliant with NASA Space Apps guidelines.  
 
 ---
 
