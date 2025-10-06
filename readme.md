@@ -106,6 +106,9 @@ All final outputs are **ethical, audit‑ready, and fully compliant** with NASA 
 - **Akshata Adhikari** — Outreach Lead  
 
 Proudly representing **Nepal 🇳🇵** in NASA Space Apps Challenge 2025.  
+## 📌 Roadmap
+See the full development roadmap here: [ROADMAP.md](./ROADMAP.md)
+
 
 ---
 
